@@ -1,0 +1,25 @@
+.lay1 {
+  width: 450px;
+  border: 1px solid rgb(207, 207, 207);
+  margin-top: 150px;
+  border-radius: 8px;
+  padding-bottom: 18px;
+}
+
+table {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+table tr td {
+  padding: 7px 20px 7px 20px;
+}
+
+.btn {
+  width: 76.5%;
+}
+
+.form {
+  margin-top: 15px;
+  width: 76.5%;
+}
